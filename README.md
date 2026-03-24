@@ -1,45 +1,151 @@
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p><br>
+<div align="center">
 
-<h1 align="center">Hi  👋 , I'm UMAR ASHRAF </h1><br>
+```
+██╗   ██╗███╗   ███╗ █████╗ ██████╗      █████╗ ███████╗██╗  ██╗██████╗  █████╗ ███████╗
+██║   ██║████╗ ████║██╔══██╗██╔══██╗    ██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗██╔════╝
+██║   ██║██╔████╔██║███████║██████╔╝    ███████║███████╗███████║██████╔╝███████║█████╗  
+██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗    ██╔══██║╚════██║██╔══██║██╔══██╗██╔══██║██╔══╝  
+╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║    ██║  ██║███████║██║  ██║██║  ██║██║  ██║██║     
+ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
+```
 
-<h3 align="left">I'm a Frontend Web Developer who loves designing and coding. I'm working with ReactJs, and NextJs to build the web application interfaces and functionalities.</h3>
+</div>
 
-- 🔭 I’m currently working as a Frontend Web Developer.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer+%F0%9F%9A%80;React+%26+Next.js+Engineer+%E2%9A%A1;UI%2FUX+Craftsman+%F0%9F%8E%A8;Building+the+Web%2C+One+Pixel+at+a+Time" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently learning **WordPress**.
-- 📫 How to reach me **https://umarashraf.vercel.app**.
+<br/>
 
-<br><h3 align="left" ><u>🌐 Connect with me:</u></h3><br>
+<div align="center">
+  <a href="https://umarashraf.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/meumarashraf/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/meumarashraf" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/meumarashraf/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:umarashraf.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
+<br/>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const umarAshraf = {
+  role        : "Frontend Web Developer",
+  location    : "Pakistan 🇵🇰",
+  focus       : ["React.js", "Next.js", "UI/UX", "WordPress"],
+  currentlyLearning: "Backend development & AI",
+  portfolio   : "https://umarashraf.vercel.app",
+  funFact     : "I debug with console.log, and I'm not sorry 😅",
+  motto       : "Great UX is invisible, you just feel it ✨"
+  Book a Call : "https://cal.com/meumarashraf/"
+};
+```
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚡ Core Languages
 <p align="left">
-&emsp;&emsp;&emsp;<a href="https://twitter.com/meumarashraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="iUmarAshraf" height="30" width="40" /></a>&emsp;&emsp;
-<a href="https://www.linkedin.com/in/meumarashraf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/meumarashraf/" height="30" width="40" /></a>&emsp;&emsp;
-<a target="_blank" href="https://www.instagram.com/meumarashraf/">
-  <img align="center" alt="Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>&emsp;&emsp;
-  <a target="_blank" href="https://linktr.ee/meumarashraf">
-  <img align="center" alt="Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.9.0/icons/linktree.svg" />
-</a>&emsp;&emsp;
-<a target="_blank" href="mailto:umarashraf7827@gmail.com">
-  <img align="center" alt="Gmail" height="30" width="40"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>&emsp;
-</p><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
 
-<h3 align="left"><u>💻 Languages and Tools:<u></h3><br>
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <img title="Visual Studio Code" width=40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img title="NextAuth" width=40px" src="https://next-auth.js.org/img/logo/logo-sm.png"/>
-  <img title="Firebase" width=40px" src="https://i.imgur.com/ySmf4g5.png" />                                    <img title="Git" width=40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img title="GitHub" width=40px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
-  <img title="GitHub" width=40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> <hr>
+### 🚀 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs" />
+</p>
 
-<h3>🏆 GitHub Trophies</h3>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=UmarAxhraf&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+### 🎨 Styling & UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" />
+</p>
 
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,heroku,graphql,babel" />
+</p>
 
-  <h3>🖱️ Most used languages</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmarAxhraf&show_icons=true&locale=en&layout=compact&theme=dark" alt="Umar's Github Activity Graph" />
-<hr>
-<p align="center">Made with ❤️ for a better web. </p>
-<p align="center"> © 2024 Umar Ashraf.</p> <hr>
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meumarashraf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Umar's GitHub Stats"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meumarashraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meumarashraf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meumarashraf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meumarashraf&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <p>I'm always open to interesting conversations, freelance opportunities, and collaboration on exciting projects. If you have an idea or just want to talk tech — let's connect!</p>
+  
+  <a href="https://umarashraf.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:umarashraf.work@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Send Me an Email-D14836?style=for-the-badge&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=meumarashraf&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>⚡ Crafted with passion for a better web · © 2026 Umar Ashraf</sub>
+</div>
