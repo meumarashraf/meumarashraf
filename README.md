@@ -50,7 +50,7 @@ const umarAshraf = {
   portfolio   : "https://umarashraf.vercel.app",
   funFact     : "I debug with console.log, and I'm not sorry 😅",
   motto       : "Great UX is invisible, you just feel it ✨"
-  Book a Call : "https://cal.com/meumarashraf/"
+  bookCall   : "https://cal.com/meumarashraf/"
 };
 ```
 
