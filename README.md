@@ -49,7 +49,7 @@ const umarAshraf = {
   role             : "Frontend Engineer",
   location         : "Pakistan 🇵🇰",
   focus            : ["React.js", "Next.js", "UI/UX", "WordPress"],
-  currentlyLearning: ["AI-Powered Apps", "LLM APIs (OpenAI · Claude)", "Full-Stack (Backend + Databases)"],
+  currentlyLearning: ["AI-Powered Apps", "LLM APIs", "AI Agents", "Full-Stack (Backend + Databases)"],
   portfolio        : "https://umarashraf.vercel.app",
   bookQuickCall    : "https://cal.com/meumarashraf/",
   funFact          : "I debug with console.log, and I'm not sorry 😅",
