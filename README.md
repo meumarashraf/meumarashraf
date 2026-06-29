@@ -46,7 +46,7 @@
 
 ```javascript
 const umarAshraf = {
-  role             : "Frontend Engineer",
+  role             : "Full-Stack Developer",
   location         : "Pakistan 🇵🇰",
   focus            : ["React.js", "Next.js", "UI/UX", "WordPress"],
   currentlyLearning: ["AI-Powered Apps", "LLM APIs", "AI Agents", "Full-Stack (Backend + Databases)"],
